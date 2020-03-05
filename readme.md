@@ -19,10 +19,6 @@ danya.bright@yandex.ru<br />
 * Опыт работы с Unix подобными ОС;
 * Английский язык Intermidiate
 
-### Интересы в профессинальной сфере:
-* Люблю смотреть доклады по веб-разработке
-* Getting experience working in a team of qualified web-developers;
-
 ### Опыт работы:
 #### [Yandex](https://yandex.ru/)
 #### Стажировка
