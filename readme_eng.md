@@ -4,24 +4,24 @@ Russia, Rostov-on-Don<br />
 danya.bright@yandex.ru<br />
 +7 988 255 35 47<br />
 
-### Специализация и навыки:
-* Git;
-* HTML + CSS3(Sass, Less);
-* JavaScript;
-* TypeScript;
-* Node.js (Express, Mongoose);
-* React (and tools popular in React ecosystem like Redux, Redux-thunk, Redux-saga, Formik, Styled-Components, Storybook etc);
-* React Native (have an experience developing IOS apps);
-* Basic knowledges of Functional Programming, working with Ramda;
-* Gulp, Webpack;
-* Unit tests (Jest) and E2E tests (Selenium + Webdriver, Puppeteer);
+### Professional skills:
+* HTML + CSS3(Sass, Less)
+* JavaScript
+* TypeScript
+* Node.js (Express, Mongoose)
+* React (and tools popular in React ecosystem like Redux, Redux-thunk, Redux-saga, Formik, Styled-Components, Storybook etc)
+* React Native (have an experience developing IOS apps)
+* Basic knowledges of Functional Programming, working with Ramda
+* Gulp, Webpack
+* Unit tests (Jest) and E2E tests (Selenium + Webdriver, Puppeteer)
+* Git
 * English is Intermidiate
 
 ### Experience:
 #### [Yandex](https://yandex.ru/)
 #### Frontend Engineer Intern
 
-January 2020 - April 2020<br />
+*January 2020 - April 2020*<br />
 
 Took part in development of product called [Yandex.Zen](https://zen.yandex.ru/).<br />
 
@@ -33,7 +33,7 @@ While working here I invented console stability test, service worker caching, wo
 
 #### Frontend Developer
 
-September 2018 - August 2019<br />
+*September 2018 - August 2019*<br />
 
 Company is selling and developing applications for cash machines called [Evotor](https://evotor.ru/) <br />
 
@@ -45,7 +45,7 @@ Here I was working using React/Redux stack and got an experience working with Re
 
 #### Junior Frontend Developer
 
-January 2017 - November 2017<br />
+*January 2017 - November 2017*<br />
 
 Here I worked with Python (Flask) and got an worked with SPA frameworkds like Angular 1.5 + React.<br />
 
@@ -62,8 +62,12 @@ Few examples of project I was working on here:
 
 #### Frontend developer
 
-March 2017 - January 2020
+*March 2017 - January 2020*
 
 In Uz0 I got gamedev experience, developed chat and services for streamers.
 
 There was a lot of real-time tasks. So I got and experience working with WebSockets API.
+
+### Education:
+* Bachelor degree in World Economy
+* Frontend Development School (Yandex)
