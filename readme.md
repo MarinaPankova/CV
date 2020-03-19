@@ -1,6 +1,6 @@
 ## Данил Стоянов
 ### **Frontend developer**
-Россия, г. Ростов-на-Дону<br />
+Россия, Ростов-на-Дону / Москва<br />
 danya.bright@yandex.ru<br />
 +7 988 255 35 47<br />
 
@@ -21,9 +21,9 @@ danya.bright@yandex.ru<br />
 
 ### Опыт работы:
 #### [Yandex](https://yandex.ru/)
-#### Стажировка
+#### Frontend Developer (Стажировка)
 
-Январь 2020 - Апрель 2020<br />
+*Январь 2020 - Апрель 2020*<br />
 
 Участие в разработке продукта известного как [Яндекс.Дзен](https://zen.yandex.ru/).<br />
 
@@ -36,9 +36,9 @@ danya.bright@yandex.ru<br />
 
 #### [Flagman](https://flagman-it.ru/)
 
-#### Frontend developer
+#### Frontend Developer
 
-Сентябрь 2018 - Август 2019<br />
+*Сентябрь 2018 - Август 2019*<br />
 
 Одно из направлений деятельности компании - продажа касс [Эвотор](https://evotor.ru/) <br />
 
@@ -48,9 +48,9 @@ danya.bright@yandex.ru<br />
 
 #### [Immelman](https://immelman.ru/#/)
 
-#### Junior Frontend developer
+#### Junior Frontend Developer
 
-Январь 2017 - Ноябрь 2017
+*Январь 2017 - Ноябрь 2017*
 
 За время работы, я успел поработать как с обычными веб-сайтами (Python Flask), так и с SPA фреймворками (React, Angular 1.5).
 
@@ -63,9 +63,9 @@ danya.bright@yandex.ru<br />
 #### Дополнительный опыт
 #### [Uz0](https://github.com/uz0) (удаленная работа)
 
-#### Frontend developer
+#### Frontend Developer
 
-Март 2017 - Январь 2020
+*Март 2017 - Январь 2020*
 
 В Uz0 приобрел опыт работы в геймдеве, разрабатывал чат, сервисы для стримеров.
 
