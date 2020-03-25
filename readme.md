@@ -17,7 +17,7 @@ danya.bright@yandex.ru<br />
 * Написание Unit тестов (Jest) и E2E тестов (Selenium + Webdriver, Puppeteer);
 * Графические редакторы (Gimp, Photoshop, Zeplin, Figma);
 * Опыт работы с Unix подобными ОС;
-* Английский язык Intermidiate
+* Английский язык Intermediate
 
 ### Опыт работы:
 #### [Yandex](https://yandex.ru/)
