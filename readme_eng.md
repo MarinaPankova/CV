@@ -15,7 +15,7 @@ danya.bright@yandex.ru<br />
 * Gulp, Webpack
 * Unit tests (Jest) and E2E tests (Selenium + Webdriver, Puppeteer)
 * Git
-* English is Intermidiate
+* English is Intermediate
 
 ### Experience:
 #### [Yandex](https://yandex.ru/)
